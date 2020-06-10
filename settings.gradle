@@ -1,0 +1,3 @@
+include ':myutils'
+include ':app'
+rootProject.name = "CustomHorizontal"
