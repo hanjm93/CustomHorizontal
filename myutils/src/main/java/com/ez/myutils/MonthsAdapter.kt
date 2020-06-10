@@ -3,7 +3,6 @@ package com.ez.myutils
 import android.text.format.DateFormat
 import android.util.TypedValue
 import android.view.View
-import com.ez.customhorizontal.*
 import java.util.*
 
 class MonthsAdapter(horizontalCalendar: HorizontalCalendar?, startDate: Calendar?, endDate: Calendar?, disablePredicate: HorizontalCalendarPredicate?, eventsPredicate: CalendarEventsPredicate?) :
